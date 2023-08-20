@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactSocialNetwork/static/css/main.aa6446ba.css",
+    "main.js": "/reactSocialNetwork/static/js/main.26a24fce.js",
+    "static/js/357.b79afbf4.chunk.js": "/reactSocialNetwork/static/js/357.b79afbf4.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactSocialNetwork/static/js/787.28cb0dcd.chunk.js",
+    "static/media/avatar.jpg": "/reactSocialNetwork/static/media/avatar.84f1d846fceba47fc8cb.jpg",
+    "static/media/Bean Eater-1s-137px.svg": "/reactSocialNetwork/static/media/Bean Eater-1s-137px.14d32eb5527565e6f5a0d006bcdb01fc.svg",
+    "index.html": "/reactSocialNetwork/index.html",
+    "main.aa6446ba.css.map": "/reactSocialNetwork/static/css/main.aa6446ba.css.map",
+    "main.26a24fce.js.map": "/reactSocialNetwork/static/js/main.26a24fce.js.map",
+    "357.b79afbf4.chunk.js.map": "/reactSocialNetwork/static/js/357.b79afbf4.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactSocialNetwork/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa6446ba.css",
+    "static/js/main.26a24fce.js"
+  ]
+}
